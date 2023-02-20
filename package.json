@@ -1,0 +1,15 @@
+{
+  "name": "video_sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-chime-sdk-js": "^3.11.0",
+    "aws-embedded-metrics": "^4.1.0",
+    "aws-sdk": "^2.1318.0",
+    "uuid": "^9.0.0"
+  }
+}
